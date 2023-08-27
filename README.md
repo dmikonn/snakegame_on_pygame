@@ -1,6 +1,7 @@
 # Snake game on PyGame 
 
-A simple snake game. Made on Pygame as a translation of [the JavaSript](https://github.com/dmikonn/snakegametest) version. 
+A simple snake game on Pygame. 
+I made it primary as a language translation project, it's based on [the tutrial for JavaScript learners](https://youtu.be/9TcU2C1AACw ), but rewrittten entirely in Python.
 
 ## Requirements
 
