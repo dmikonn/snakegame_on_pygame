@@ -1,3 +1,4 @@
+#!/usr/bin/env python3.10
 import pygame
 from random import randrange
 from sound import play_sound
